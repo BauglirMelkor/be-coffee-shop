@@ -8,7 +8,7 @@ To run the application write the commands below <br/>
 **cd coffeeshop** <br/>
 **mvn clean install**c<br/>
 **mvn docker:build**c<br/>
-**docker run -d -p 8080:8080 bestseller/be-coffee-store:latest**c <br/> 
+**docker run -d -p 8080:8080 bestseller/be-coffee-store:latest** <br/> 
 
 In order to check the API you may visit the address below<br/> 
 http://localhost:8080/swagger-ui/index.html#/<br/> 
